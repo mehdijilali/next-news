@@ -1,7 +1,11 @@
-{  
-    "user": {  
-        "name": "mehdi",   
-        "lastName": "jilali",   
-        "age": 22  
-    }  
-}  
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
