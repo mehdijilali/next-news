@@ -1,6 +1,7 @@
-{
-  "username": "mehdiJil",
-  "firstName": "Mehdi",
-  "lastName": "Jilali",
-  "Age": 22
- }
+{  
+    "user": {  
+        "name": "mehdi",   
+        "lastName": "jilali",   
+        "age": 22  
+    }  
+}  
